@@ -1,1 +1,1 @@
-In this application user can search any movie and some movie related to query are displayed on page. user can see  some brief details about any of the any of movie which is displyed on page.To build application i am using ReactJS and Redux.
+In this application user can search any movie and some movie related to query are displayed on page. user can see some brief details about any of the movie which is displyed on page.To build application i am using ReactJS and Redux.
